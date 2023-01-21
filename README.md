@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Paulo. I am a "Bachiller en Ciencias con mención en Ingeniería Civil" and I live in Peru. I love traveling, food, biking and swimming. I'm currently training as a Backend Developer because I'm passionate about programming! :smile:
+
+During my training as a backend developer, I am contributing my work I do from the course in my repository so that I can serve those who want to embark on this beautiful experience of programming. :eyeglasses::zap:
+
+Feel free to message me, will be happy to answer you! :sunglasses:
